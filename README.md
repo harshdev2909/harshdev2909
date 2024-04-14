@@ -23,6 +23,13 @@
 <div id="pfp" align="center">
   <img src="https://komarev.com/ghpvc/?username=harshdev2909&style=flat-square&color=blue" alt=""/>
 </div>
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">💮 Additional Insight into My Profile</h2><a id="user-content--additional-insight-into-my-profile" class="anchor" aria-label="Permalink: 💮 Additional Insight into My Profile" href="#-additional-insight-into-my-profile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
 <p dir="auto">🧠 I'm currently learning Web Development And DSA.</p>
 <p dir="auto">👩&zwj;💻 Working on FrontEnd Development</p>
