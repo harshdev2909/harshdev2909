@@ -45,7 +45,8 @@
 
 
 ## 🔥 My Progress
-![harshdev2909's Stats](https://github-readme-stats.vercel.app/api?username=harshdev2909&theme=transparent&show_icons=true&hide_border=false&count_private=true)<br/>
+![harshdev2909's Stats](https://github-readme-stats.vercel.app/api?username=harshdev2909&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshdev2909&theme=transparent&type=SVG)](https://git.io/streak-stats)<br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
