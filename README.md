@@ -37,7 +37,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshdev2909&hide_progress=true&theme=radical)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=harshdev2909&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
