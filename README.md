@@ -5,8 +5,9 @@
 </p>
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">💮 Additional Insight into My Profile</h2><a id="user-content--additional-insight-into-my-profile" class="anchor" aria-label="Permalink: 💮 Additional Insight into My Profile" href="#-additional-insight-into-my-profile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a></div>
-<p dir="auto">🧠 I'm currently learning Web Development ,designing And Web3.</p>
-<p dir="auto">👩&zwj;💻 Working on Full Stack</p>
+<p dir="auto">🧠 I'm currently learning devOps And Web3.</p>
+<p dir="auto">👩&zwj;💻 Working on Full Stack web3 projects</p>
+<p dir="auto">👩&zwj; Building dApps on solana ecosystem</p>
 <p dir="auto">📫 How to reach me? harsh.dev2909@gmail.com</p>
 
 # 💻 Tech Stack:
